@@ -13,3 +13,4 @@ function comprobar(n){
         return "impar";//si modulo de n es distinto de 0, será impar
       }
     };
+    console.log(comprobar(144));// deberia dar par para 144
